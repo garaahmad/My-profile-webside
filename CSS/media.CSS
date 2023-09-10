@@ -1,0 +1,121 @@
+@media(min-width : 300px) and (max-width: 500px){
+    img{
+        width: 250px;
+    }
+    h1 ,p{
+        font-size:15px;
+    }
+    #text{
+        width: 90%;
+        transform: translate(-45% ,60%);
+    }
+    #section1 p{
+        font-size:10px;
+    }
+    .section3div{
+        margin-left: 50px;
+
+    }
+
+    .CPP{
+        padding: 10px 15px;
+        
+    }
+    #section1{
+        height: 400px !important;
+        margin-top: 50%;
+    }
+    #section2{
+        height: 400px !important;
+    }
+    #section3{
+        margin-bottom: 300%;
+    }
+    #section4{
+        margin-bottom: 130%;
+        position: relative;
+        width: 50% !important;
+    }
+    #Two{
+        transform: translate(0% ,30%) !important;
+        font-size: 15px;
+    }
+    #Three{
+        width: 100px !important;
+        position: absolute;
+        left: 20%;
+        bottom: -10%;
+        display: flex;
+        flex-direction: column;
+        
+    }
+    #Student {
+    padding-right: 100% !important; 
+    }
+    #section4 h1{
+        transform: translateX(50%);
+    }
+    #textarea{
+        padding: 5px 100px 50px 10px !important;
+    }
+
+}
+@media(min-width :700px) and (max-width: 980px){
+
+    img{
+        width: 400px;
+    }
+    h1 ,p{
+        font-size: 30px;
+    }
+    #name{
+        font-size: 20px;
+    }
+    #text{
+        transform: translate(-70% ,90%);
+    }
+    #section1 p{
+        font-size:15px;
+    }
+    .pyth{
+        padding: 10px 15px;
+    }
+    #section1{
+        margin-top: 50%;
+        height: 500px !important;
+    }
+    #section2{
+        height: 400px !important;
+    }
+    #section3{
+        margin-bottom: 130%;
+    }
+    #section4{
+        margin-bottom: 130%;
+        position: relative;
+        width: 50% !important;
+        height: 900px !important;
+    }
+    #Two{
+        transform: translate(50% ,30%) !important;
+
+    }
+    #Three{
+        width: 100px !important;
+        position: absolute;
+        left: 50%;
+        bottom: -10%;
+        display: flex;
+        flex-direction: column;
+    }
+    #Student {
+    padding-right: 100% !important; 
+    }
+    #section4 h1{
+        transform: translateX(50%);
+    }
+    #textarea{
+        padding: 20px 400px 200px 10px;
+    }
+
+}

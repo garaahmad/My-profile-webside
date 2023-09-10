@@ -1,0 +1,186 @@
+body {
+    margin: 0px;
+    background-image: linear-gradient(90deg, #08223b 30%, #050c16 90%);
+}
+
+header {
+    width: 100%;
+    height: 700px;
+}
+
+nav #ah {
+    color: #2282de;
+    padding: 2px;
+}
+
+nav #logo {
+    text-shadow: -5px -5px 6px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.img {
+    float: left;
+    box-shadow: -8px -6px 10px, 8px 6px 10px;
+    transform: translate(10px, 50px);
+    border-radius: 50px;
+    margin-left: 10px;
+
+}
+
+#name {
+    display: inline;
+    background-color: #0d3e6f;
+    color: white;
+    padding: 7px;
+    border-radius: 20px;
+    box-shadow: 3px 5px 9px #0d3e6f, -3px -5px 9px #0d3e6f;
+}
+
+header #line1 {
+    color: white;
+    padding: 30px 10px 5px 0px;
+}
+
+#line2 {
+    color: #2082de;
+}
+
+#headerspan {
+    color: #fff;
+}
+
+header #p {
+    color: white;
+    font-size: 22px;
+}
+
+#Btm {
+    color: white;
+    background-color: #2082de;
+    padding: 10px 20px;
+    border-radius: 40px;
+    cursor: pointer;
+    border-style: none;
+}
+
+#text {
+    height: 400px;
+    display: inline;
+    position: absolute;
+    left: 50%;
+    top: 200px;
+}
+
+/*<!-- *****************************************  about *****************************************  -->*/
+#section1,
+#section2,
+#section4 {
+    margin-bottom: 90px;
+    width: 100%;
+    height: 700px;
+}
+#section3{
+    width: 90%;
+    height: 800px;
+    
+}
+.section3div{
+    margin-left:15%;
+}
+#section1img {
+    float: right;
+}
+
+h1 {
+    color: white;
+}
+
+#section1div {
+    color: white;
+}
+
+#section1div #width,
+#section1div #line2 {
+    font-weight: 900;
+}
+
+#section1div #line2 {
+    font-size: 25px;
+}
+
+#section2 img {
+    width: 200px;
+}
+
+#carousediv img{
+    margin: 0px 25%;
+}
+
+#section3 #Three {
+    margin: 60px 0px 0px 30%;
+}
+
+#Fname,
+#Email,
+#Student,
+#textarea {
+    background-color: #102a43;
+    border-style: none;
+    border-radius: 5px;
+
+}
+
+#Fname,
+#Email {
+    margin: 5px 15px 20px 0px;
+    padding: 10px 170px 10px 5px;
+}
+
+#Student {
+    padding: 10px 50% 10px 5px;
+    margin: 5px 30px 20px 0px;
+}
+
+#formButton {
+    background-color: #0788ff;
+    padding: 20px 30%;
+    margin: 30px 0px 0px 0px;
+    border-style: none;
+    border-radius: 20px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+.rowdiv{
+    background-color: black;
+    color: white;
+}
+form{
+    float: right;
+    transform: translate(-35%,-20%);
+}
+#section4 p{
+    font-size: 20px;
+    color: #fff;
+    
+}
+#section4 #Two{
+    padding-left: 10%;
+    transform: translatey(100%);
+}
+#formButton{
+    padding: 3% 42%;
+}
+#Student{
+    padding-right: 73%;
+}
+#textarea{
+    padding: 20px 400px 200px 10px;
+}
+
+
+footer{
+    width: 100%;
+    height: 70px;
+}
